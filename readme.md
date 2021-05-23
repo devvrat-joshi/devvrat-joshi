@@ -19,7 +19,9 @@ My name is Devvrat Joshi. I am a thrid year undergraduate in Computer Science an
     </td>
   </tr>
 <table>
-
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devvrat-joshi&label=Profile%20views&color=0e75b6&style=flat" alt="devvrat-joshi" /> </p>
+  
 ### My day
 <p align="center">
 <img src="https://github.com/devvrat-joshi/devvrat-joshi/blob/main/myday.gif">
