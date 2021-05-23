@@ -21,6 +21,4 @@ My name is Devvrat Joshi. I have just completed my thrid year of undergraduate i
 <table>
 
 ### My day
-<p align="center">
-![](https://github.com/devvrat-joshi/devvrat-joshi/blob/main/myday.gif)
-</p>
+<img align="center" src="https://github.com/devvrat-joshi/devvrat-joshi/blob/main/myday.gif">
