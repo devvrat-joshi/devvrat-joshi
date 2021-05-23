@@ -2,7 +2,7 @@
 ## Welcome to my Github Profile!!!
 ![](https://i.imgur.com/alVLV1w.png)
 
-My name is Devvrat Joshi. I have just completed my thrid year of undergraduate in Computer Science and Engineering at IIT Gandhinagar. I am interested in Software and Web-Application development. I love competitive coding. I read a lot of research in the field of Machine Learning and Data Science.
+My name is Devvrat Joshi. I am a thrid year undergraduate in Computer Science and Engineering at IIT Gandhinagar. I am interested in Software and Web-Application development. I love competitive coding. I read a lot of research in the field of Machine Learning and Data Science.
 <p align="center">
 <a href="https://www.linkedin.com/in/devvrat-joshi-14082000/"><img height="40" src="icons/linkedin.png"></a>&nbsp;&nbsp;
 <a href="mailto:dsjoshi1990@gmail.com"><img height="40" src="icons/gmail.png"></a>
