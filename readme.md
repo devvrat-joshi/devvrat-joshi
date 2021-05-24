@@ -21,11 +21,11 @@ My name is Devvrat Joshi. I am a thrid year undergraduate in Computer Science an
 <table>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devvrat-joshi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Badge](https://cp-logo.vercel.app/codechef/hellomello)](https://www.codechef.com/users/hellomello)
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devvrat-joshi&label=Profile%20views&color=0e75b6&style=flat" alt="devvrat-joshi" /> 
   </p>
-  
-[![Badge](https://cp-logo.vercel.app/codechef/hellomello)](https://www.codechef.com/users/hellomello)
   
 ### My day
 <p align="center">
