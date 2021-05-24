@@ -17,12 +17,9 @@ My name is Devvrat Joshi. I am a thrid year undergraduate in Computer Science an
     <td> 
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvrat-joshi&exclude_repo=Digital,Python-Based-Automated-Verilog-Code-Generator-For-Arithmetic-Unit&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
     </td>
-    <td>
-      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=devvrat-joshi&theme=tokyonight"/>
-    </td>
   </tr>
 <table>
-
+  <p align="center"><img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=devvrat-joshi&theme=tokyonight"/></p>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devvrat-joshi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Badge](https://cp-logo.vercel.app/codechef/hellomello)](https://www.codechef.com/users/hellomello)
