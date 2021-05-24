@@ -19,7 +19,7 @@ My name is Devvrat Joshi. I am a thrid year undergraduate in Computer Science an
     </td>
   </tr>
 <table>
-  <p align="center"><img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=devvrat-joshi&theme=tokyonight"/></p>
+  <p align="center"><img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=devvrat-joshi"/></p>
   
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devvrat-joshi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
